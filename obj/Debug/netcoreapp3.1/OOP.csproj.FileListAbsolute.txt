@@ -1,0 +1,26 @@
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/home/emdadul-tareque/Desktop/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/home/emdadul-tareque/Desktop/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.deps.json
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.json
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.runtimeconfig.dev.json
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.dll
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/bin/Debug/netcoreapp3.1/OOP.pdb
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.csprojAssemblyReference.cache
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfoInputs.cache
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.AssemblyInfo.cs
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.csproj.CoreCompileInputs.cache
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.dll
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.pdb
+/home/emdadul-tareque/Desktop/Software engineering/CSharp/OOP/obj/Debug/netcoreapp3.1/OOP.genruntimeconfig.cache

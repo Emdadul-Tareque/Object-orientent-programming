@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/emdadul-tareque/.dotnet/store/|arch|/|tfm|",
+      "/home/emdadul-tareque/.nuget/packages"
+    ]
+  }
+}
